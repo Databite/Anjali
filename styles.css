@@ -2,4 +2,7 @@ body{
     background-color: grey;
     color: white;
     padding: 30px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
 }
