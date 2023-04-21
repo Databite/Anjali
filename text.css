@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
   }
-  html {
+html {
     height: 100%;  
   }
   
-  body {
+body {
     min-height: 100%;  
     background: #eee;
     font-family: 'Lato', sans-serif;
@@ -18,7 +18,7 @@
     padding-bottom: 50px;
   }
   
-  .container {
+.container {
     max-width: 700px;   
     background: #fff;
     margin: 0px auto 0px; 
@@ -28,9 +28,9 @@
     margin-top: 50px;
   }
   
-  .header {
+.header {
     margin-bottom: 30px;
-  } 
+
     .full-name {
       font-size: 40px;
       text-transform: uppercase;
@@ -68,14 +68,12 @@
       margin-right: 10px;
       text-decoration: underline;
     }
+}
   
-  
-  
-  .details {
+.details {
     line-height: 20px;
-  }
     .section {
-      margin-bottom: 40px;  
+      margin-bottom: 40px;
     }
     
     .section:last-of-type {
@@ -154,6 +152,7 @@
         background: #79A9CE;
       }
     }
+  }
   
   
   
