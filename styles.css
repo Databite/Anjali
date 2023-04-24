@@ -5,4 +5,5 @@ body{
     padding: 30px;
     list-style: lower-roman inside;
     overflow: auto;
+    background: linear-gradient(90deg, #000 0%, #e0d9d9 100%);
 }
